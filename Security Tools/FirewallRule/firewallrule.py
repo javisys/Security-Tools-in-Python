@@ -1,4 +1,4 @@
-#Javi_16018 - 22/12/2022
+#Javi_16018
 import iptc
 
 # Create a new rule table
