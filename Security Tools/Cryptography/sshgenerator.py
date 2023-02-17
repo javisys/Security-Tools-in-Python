@@ -1,4 +1,4 @@
-# Javier Ferrándiz Fernández - 22/12/2022 
+# Javier Ferrándiz Fernández - 22/12 
 import os
 from cryptography.hazmat.primitives import serialization, padding
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
