@@ -1,4 +1,4 @@
-#Javi_16018 - 10/12/2022
+#Javi_16018
 import socket
 
 # IP address of the host you want to scan
