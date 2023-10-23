@@ -1,7 +1,7 @@
 # Security-Tools-in-Python
 Several simple projects done in Python for network monitoring for Cybersecurity and high availability. All the modules needed are in their folder with the script.
 
-<em>UPDATED, ADDED PASSWORD GENERATOR<em>
+<em>UPDATED, ADDED PASSWORD GENERATOR</em>
 
 𝗕𝗔𝗡𝗗𝗪𝗜𝗗𝗧𝗛
 <br>This script, made with the psutil library, obtains your bandwidth on the network interface you specify.
