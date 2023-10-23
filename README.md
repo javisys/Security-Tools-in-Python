@@ -30,17 +30,22 @@ https://pypi.org/project/hashlib/
 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥
 
 References
+https://pypi.org/project/python-secrets/
 
 𝗣𝗢𝗥𝗧 𝗦𝗖𝗔𝗡𝗡𝗘𝗥
 
 References
+https://docs.python.org/es/3/library/socket.html
 
 𝗧𝗥𝗔𝗙𝗙𝗜𝗖 𝗔𝗡𝗔𝗟𝗬𝗭𝗘𝗥
 
 References
+https://scapy.net/
 
 𝗪𝗘𝗕 𝗔𝗣𝗣 𝗦𝗖𝗔𝗡𝗡𝗘𝗥
 
 References
+https://pypi.org/project/requests/
+https://pypi.org/project/beautifulsoup4/
 
 
