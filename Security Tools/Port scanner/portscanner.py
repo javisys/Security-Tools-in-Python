@@ -54,4 +54,4 @@ if args.i: ip_address = args.i
 try:
     scan_ports(ip_address, start_port, end_port)
 except:
-    print(f"Error: Failed to execute the command, please check the arguments, use --help")
+    print(f"Error: Failed to execute the command, please check the arguments, use --help", file=sys.stderr); sys.exit(1)
